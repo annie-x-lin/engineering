@@ -1,1 +1,3 @@
-this code file shows I project I have been working on training the code to classify handwritten digits using MNIST data through an ANN. The program has >90% probability of success of correctly classifying handwritten digits. 
+this code file shows I project I have been working on training the code to classify handwritten digits using MNIST data through an ANN. 
+The program has >90% probability of success of correctly classifying handwritten digits. 
+Run Demo to see classification in action. 
